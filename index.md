@@ -6,7 +6,7 @@ CSE15L
 # Heading 1
 ## Heading 2
 [Link](http://apple.com)
-![Image](./screenshots/Screen Shot 2022-01-05 at 8.44.43 PM.png)
+![Image](./screenshots/aaa.png)
 > Blockquote
 * List
 * List
