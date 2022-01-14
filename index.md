@@ -1,6 +1,6 @@
 
 # Lab Report Directory 
 
-:point_down: :point_down: :point_down:
+>Click the links down below to access lab reports
 
-[Lab Report 1](https://markma2003.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+[Week 2 Lab Report](https://markma2003.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
