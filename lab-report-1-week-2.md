@@ -40,6 +40,6 @@ I set the key with `ssh-keygen` command and store the key on my system.
 
 ## Step 6: Optimizing Remote Running
 
-I can optimizing running by using scp to upload file and `ssh` to run without logging into the server. Before using `ssh cs15lwi22aoc@ieng6.ucsd.edu "javac WhereAmI.java java WhereAmI"` and SSH Keys, I need to type them seperately and log in. which is 80 keystrokesl; Then the first time using above command is 67 keystroke. At last, I can use up and enter to run the program, which is only 2 keystroke.
+I can optimizing running by using scp to upload file and `ssh` to run without logging into the server. Before using `ssh cs15lwi22aoc@ieng6.ucsd.edu "javac WhereAmI.java java WhereAmI"` and SSH Keys, I need to type them seperately and log in. which is 80 keystrokes; Then the first time using above command is 67 keystrokes. At last, I can use up and enter to run the program, which is only 2 keystrokes.
 
 ![Image](./screenshots/opt.png)
